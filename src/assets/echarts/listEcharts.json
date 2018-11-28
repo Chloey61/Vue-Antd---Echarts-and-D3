@@ -1,0 +1,26 @@
+{
+  "Line" : {
+    "key" : 1,
+    "text" : "折线图",
+    "english" : "Line",
+    "icon" : "line-chart"
+  },
+  "Bar" : {
+    "key" : 2,
+    "text" : "柱状图",
+    "english" : "Bar",
+    "icon" : "bar-chart"
+  },
+  "Pie" : {
+    "key" : 3,
+    "text" : "饼图",
+    "english" : "Pie",
+    "icon" : "pie-chart"
+  },
+  "Scatter" : {
+    "key" : 4,
+    "text" : "散点图",
+    "english" : "Scatter",
+    "icon" : "dot-chart"
+  }
+}
